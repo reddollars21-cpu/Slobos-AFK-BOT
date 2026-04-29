@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "BrevsSMP.aternos.me",
+    "ip": "BrevsSMP.aternos.me:32366",
     "port": 32366,
     "version": "1.21.1"
   },
