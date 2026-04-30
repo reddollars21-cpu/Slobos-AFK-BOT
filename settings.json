@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "pleH",
     "password": "",
     "type": "offline"
   },
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "w brevs",
-        "Sub to liejuh!",
-        "spidy loves coolwhip"
+        "Em PleH",
+        "you cant change what's coming,",
+        "fear it"
       ]
     },
     "chat-log": true,
